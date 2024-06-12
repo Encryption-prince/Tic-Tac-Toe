@@ -6,6 +6,6 @@
 - If you loose or make a draw
 - Clicl on Repeat and enjoy the game again😊
 
-## If you wanna Contributor
+## If you wanna Contribute
 - Try to make the user and comp streak count option
 - Enhance the ui if u can
